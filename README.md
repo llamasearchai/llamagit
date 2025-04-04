@@ -45,7 +45,7 @@ graph TD
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/llamasearchai/llamagit.git # Update URL
+    git clone https://llamasearch.ai # Update URL
     cd llamagit
     ```
 
@@ -128,7 +128,7 @@ Licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Support & Community 💬
 
-*   **Issues**: [GitHub Issues](https://github.com/llamasearchai/llamagit/issues) *(Update link)*
+*   **Issues**: [GitHub Issues](https://llamasearch.ai *(Update link)*
 *   **Discord**: [Community Discord](https://discord.gg/llamasearch) *(Update link)*
 
 ---
